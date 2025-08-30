@@ -4,6 +4,12 @@
 
 Olá, me chamo Felipe Rosso, muito prazer! Tenho 32 anos e sou estudante de Análise e Desenvolvimento de Sistema (ADS), além de ser um entusiasta na área de tecnologia. Sou apaixonado por novos desafios, e o desenvolvimento de software me proporciona aprendizados constantates a cada projeto. Atualmente, esotu no 3º semestre de ADS na UniSenac-RS.
 
+</a><a href="https://www.instagram.com/felipe_rossog" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="instagram logo" />
+</a>
+</a><a href="https://www.linkedin.com/in/felipe-rosso-9746982b5/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+</a>
 ---
 
 ### 🤖 Linguagens e Tecnologias

@@ -2,7 +2,9 @@
 
 **`Estudante de ADS`**
 
-Olá, me chamo Felipe Rosso, muito prazer! Tenho 32 anos e sou estudante de Análise e Desenvolvimento de Sistema (ADS), além de ser um entusiasta na área de tecnologia. Sou apaixonado por novos desafios, e o desenvolvimento de software me proporciona aprendizados constantates a cada projeto. Atualmente, estou no 3º semestre de ADS na UniSenac-RS.
+Olá, me chamo Felipe Rosso, muito prazer! Tenho 32 anos e sou estudante de Análise e Desenvolvimento de Sistemas (ADS), além de entusiasta na área de tecnologia. Sou apaixonado por novos desafios, e o desenvolvimento de software me proporciona aprendizados constantes a cada projeto. Atualmente, estou no 3º semestre de ADS na UniSenac-RS.
+
+Possuo 8 anos de experiência no ramo de telecomunicações, onde desenvolvi habilidades técnicas e de resolução de problemas. Hoje, atuo com treinamento e desenvolvimento de novas equipes dentro da empresa. Atualmente, direciono minha carreira para a área de desenvolvimento de software, unindo minha bagagem profissional à paixão por tecnologia para criar soluções inovadoras e de impacto.
 
 </a><a href="https://www.instagram.com/felipe_rossog" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="instagram logo" />
